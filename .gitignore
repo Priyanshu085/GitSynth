@@ -1,0 +1,12 @@
+.env
+
+/models
+
+/static
+
+/templates
+
+/config
+
+/__pycache__
+/.pytest_cache
